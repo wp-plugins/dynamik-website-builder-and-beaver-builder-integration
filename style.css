@@ -1,0 +1,45 @@
+/* Beaver Builder start */
+
+.beaver-page.fl-builder .content,
+.beaver-page.fl-builder .content .page,
+.beaver-page.fl-builder .content-sidebar-wrap,
+.beaver-page.fl-builder .site-container,
+.beaver-page.fl-builder .site-inner {
+    background: none;
+    border: 0;
+    float: none;
+    margin: 0 auto;
+    padding: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.beaver-page.fl-builder .content,
+.beaver-page.fl-builder .content .page,
+.beaver-page.fl-builder .content-sidebar-wrap,
+.beaver-page.fl-builder .site-inner {
+    max-width: 100%;
+    width: 100%;
+}
+
+.fl-builder .entry-content,
+.fl-builder .entry-content p,
+.fl-builder .entry-content ul li,
+.fl-builder .entry-content ol li,
+.fl-builder .entry-content h1,
+.fl-builder .entry-content h2,
+.fl-builder .entry-content h3,
+.fl-builder .entry-content h4,
+.fl-builder .entry-content h5,
+.fl-builder .entry-content h6 {
+    color: inherit;
+}
+
+.fl-builder .entry-content a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+/* Beaver Builder end */
